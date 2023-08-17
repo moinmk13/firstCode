@@ -1,0 +1,22 @@
+/* .App {
+  text-align: center;
+} */
+
+/* .App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+/* .container{
+  padding: 30px;
+  margin: 20px;
+} */
+/* .m{
+  padding-top: 50px;
+} */
+body{
+  background-color: #86efac47;
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
